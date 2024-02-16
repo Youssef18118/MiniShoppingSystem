@@ -7,7 +7,7 @@ This .Net Core project uses Repository pattern along with MVC pattern to handle 
 * Provided Profile section for users to change their login credentials.
 ### Order Management
 * Added "My Orders" section for users after they purchase along with "All Orders" section for the admin to keep track of all orders made.
-* Implemented Cart section for users to add to their cart and select books and decide to purchase at any time.
+* Implemented "Cart" section for users to add books to their cart and press "Checkout" at any time.
 ### Book Management
 * Constructed a clean view for all books available in the system for users and the admin.
 * Enabled admin to add, delete, edit, and view details of available books and genres.
