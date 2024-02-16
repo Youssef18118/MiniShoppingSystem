@@ -13,7 +13,7 @@ This .Net Core project uses Repository pattern along with MVC pattern to handle 
 * Enabled admin to add, delete, edit, and view details of available books and genres.
 
 ## LinkedIn link for the video of testing the application
-Will be announced soon 🔍.
+https://www.linkedin.com/posts/youssif-ezzat-b8a453175_just-finished-an-exciting-net-application-activity-7164299248715481088-xFvD?utm_source=share&utm_medium=member_desktop
 
 ## Required Packages
 * `Microsoft.EntityFrameworkCore`: Integral for managing data persistence in the booking system, facilitating interactions with the database.
