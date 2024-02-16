@@ -1,4 +1,4 @@
-﻿﻿
+﻿
 @model BookDisplayModel
 @{
 
@@ -29,9 +29,12 @@
             <a href="/Home/Index" class="btn btn-dark">Reset</a>
         </div>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <div class="col-12 ">
-            <a href="/Books/Create" class="btn btn-primary">Add New Book</a>
-        </div>
+        @if (User.IsInRole("Admin"))
+        {
+            <div class="col-12 ">
+                <a href="/Books/Create" class="btn btn-primary">Add New Book</a>
+            </div>
+        }
     </form>
 </div>
 
