@@ -28,6 +28,6 @@ Will be announced soon 🔍.
 * Clone the repo using git clone https://github.com/Youssef18118/MiniShoppingSystem.git.
 * Navigate to the project directory.
 * Edit Connection string in appsettings.json with your SQL server authentication credentials.
-* Add migration to DB using the package manager console. You can find it in Tools -> NuGet Package manager -> package manager console.
-* Install required packages in managing NuGet packages. You can find it in Project -> manage NuGet packages.
+* Add migration to DB using the package manager console. You can find it in `Tools -> NuGet Package manager -> package manager console`.
+* Install required packages in managing NuGet packages. You can find it in `Project -> manage NuGet packages`.
 * Run the project.
