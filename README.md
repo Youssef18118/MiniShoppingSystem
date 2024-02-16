@@ -16,13 +16,13 @@ This .Net Core project uses Repository pattern along with MVC pattern to handle 
 Will be announced soon 🔍.
 
 ## Required Packages
-Microsoft.EntityFrameworkCore: Integral for managing data persistence in the booking system, facilitating interactions with the database.
-Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore: Essential for handling any exceptions or errors that may occur during database operations.
-Microsoft.AspNetCore.Identity.EntityFrameworkCore: Crucial for implementing user authentication and authorization features within the booking system.
-Microsoft.AspNetCore.Identity.UI: Provides pre-built user interface components for user authentication and management for the booking system's frontend.
-Microsoft.EntityFrameworkCore.SqlServer: Specifically tailored for SQL Server databases to optimize performance and compatibility with SQL Server.
-Microsoft.EntityFrameworkCore.Tools: Streamlines database-related tasks such as migrations and scaffolding.
-Microsoft.VisualStudio.Web.CodeGeneration.Design: Provide templates for controllers and views.
+* Microsoft.EntityFrameworkCore: Integral for managing data persistence in the booking system, facilitating interactions with the database.
+* Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore: Essential for handling any exceptions or errors that may occur during database operations.
+* Microsoft.AspNetCore.Identity.EntityFrameworkCore: Crucial for implementing user authentication and authorization features within the booking system.
+* Microsoft.AspNetCore.Identity.UI: Provides pre-built user interface components for user authentication and management for the booking system's frontend.
+* Microsoft.EntityFrameworkCore.SqlServer: Specifically tailored for SQL Server databases to optimize performance and compatibility with SQL Server.
+* Microsoft.EntityFrameworkCore.Tools: Streamlines database-related tasks such as migrations and scaffolding.
+* Microsoft.VisualStudio.Web.CodeGeneration.Design: Provide templates for controllers and views.
 
 ## Installation requirements
 * Clone the repo using git clone https://github.com/Youssef18118/MiniShoppingSystem.git.
